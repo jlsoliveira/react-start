@@ -1,4 +1,4 @@
-<h1>Basic project</h1>
+<h1>Basic project with React.js</h1>
 
 - Class Component
 - Functional Component
